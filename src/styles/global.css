@@ -15,7 +15,9 @@ body {
 	line-height: 1.5;
 	color: #444;
 }
-h1,
+h1{
+	font-family: Garamond;
+},
 h2,
 h3,
 h4,
