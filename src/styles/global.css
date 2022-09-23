@@ -6,7 +6,7 @@
 body {
 	font-family: Verdana, sans-serif;
 	margin: auto;
-	padding: 0px;
+	padding: 10px;
 	max-width: 65ch;
 	text-align: left;
 	background-color: #fff;
@@ -16,7 +16,7 @@ body {
 	color: #444;
 }
 h1{
-	font-family: Garamond;
+	font-family: Brush Script MT;
 },
 h2,
 h3,
